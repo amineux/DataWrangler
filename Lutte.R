@@ -48,7 +48,7 @@ df_paris <- na.omit(df_paris)
 str(df_paris)
 
 
-# Données trouvé
+# Données trouvés
 
 #  Avec  summary()
 summary(df_paris)
